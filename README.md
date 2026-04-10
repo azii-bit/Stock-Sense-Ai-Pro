@@ -234,9 +234,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: azii-bit
+- LinkedIn: www.linkedin.com/in/syed-azlan-shah-077176200
+- Email: azlansyed123@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -248,8 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Support
 
 For questions, issues, or feature requests:
-- Open an [Issue](https://github.com/yourusername/stocksense-ai-pro/issues)
-- Contact: your.email@example.com
+- Contact: azlansyed123@gmail.com
 
 ---
 
